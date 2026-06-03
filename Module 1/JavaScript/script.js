@@ -1,7 +1,3 @@
-// ======================================
-// JAVASCRIPT BASICS & SETUP
-// ======================================
-
 console.log("Welcome to the Community Portal");
 
 window.addEventListener("load", () => {
